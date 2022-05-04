@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.7;
 
-contract bears {
+contract bearcave {
 
     address public owner;
     uint256 private counter;
