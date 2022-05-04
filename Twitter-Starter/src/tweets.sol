@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.7;
 
-contract tweets {
+contract bears {
 
     address public owner;
     uint256 private counter;
